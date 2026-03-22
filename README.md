@@ -100,5 +100,4 @@ The dataset contains the following key fields:
 
 
 
-✅ Add **badges, portfolio links, and LinkedIn section**
-✅ Make it **more advanced (recruiter-level GitHub)**
+
