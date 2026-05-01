@@ -96,7 +96,9 @@ The dataset contains the following key fields:
 * **Excel / CSV** – Data source
 
 ![Alt text](https://github.com/maha1606-gitoctocat/Power-BI-Data-Visualization/blob/0a8df6a7b28c931b8fa49b38dfb0344b35807b09/Dashboard%201.png)
+
 ![Alt text](https://github.com/maha1606-gitoctocat/Power-BI-Data-Visualization/blob/0a8df6a7b28c931b8fa49b38dfb0344b35807b09/Dadboard%202.png)
+
 ![Alt text](https://github.com/maha1606-gitoctocat/Power-BI-Data-Visualization/blob/0a8df6a7b28c931b8fa49b38dfb0344b35807b09/Dashboard%203.png)
 
 
