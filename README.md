@@ -1,6 +1,3 @@
-# E-Commerce-Sales-Analysis-Power-BI
-
-
 #  Sales Dashboard Analysis using Power BI
 
 ##  Project Overview
