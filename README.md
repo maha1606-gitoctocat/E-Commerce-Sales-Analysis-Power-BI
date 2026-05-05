@@ -97,7 +97,11 @@ The dataset contains the following key fields:
 
 ![Alt text](https://github.com/maha1606-gitoctocat/Power-BI-Data-Visualization/blob/0a8df6a7b28c931b8fa49b38dfb0344b35807b09/Dashboard%201.png)
 
+I used slicers and interactive buttons to allow users to filter the dashboard dynamically. This helps in analyzing data based on different parameters like semester and country without modifying the dataset.
+
 ![Alt text](https://github.com/maha1606-gitoctocat/Power-BI-Data-Visualization/blob/0a8df6a7b28c931b8fa49b38dfb0344b35807b09/Dadboard%202.png)
+
+I used slicers and interactive buttons to allow users to filter the dashboard dynamically. This helps in analyzing data based on different parameters like semester and country without modifying the dataset.
 
 ![Alt text](https://github.com/maha1606-gitoctocat/Power-BI-Data-Visualization/blob/0a8df6a7b28c931b8fa49b38dfb0344b35807b09/Dashboard%203.png)
 
